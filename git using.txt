@@ -1,4 +1,3 @@
 git bash
 
-
-git is great.
+git is a distributed version control system.
